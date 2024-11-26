@@ -25,5 +25,14 @@ This is a simple port scanner built using Python that scans a given host for ope
 
 ### 1. Clone this repository
 You can clone this repository using the following command:
-```bash
-git clone https://github.com/your-username/port-scanner.git
+
+'git clone https://github.com/your-username/port-scanner.git'
+
+## How to Run
+
+To use this script, you need to provide the target hostname or IP address you want to scan as an argument.
+
+### Command:
+
+'python port_scanner.py <target>'
+
