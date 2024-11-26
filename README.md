@@ -34,5 +34,5 @@ To use this script, you need to provide the target hostname or IP address you wa
 
 ### Command:
 
-'python port_scanner.py <target-IP>'
+'python port_scanner.py target-IP'
 
